@@ -1,0 +1,91 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "q",
+      "password": "qq",
+      "firstName": "Q",
+      "lastName": "Qq",
+      "token": "q1"
+    },
+    {
+      "id": 2,
+      "username": "w",
+      "password": "ww",
+      "firstName": "W",
+      "lastName": "Ww",
+      "token": "w1"
+    },
+    {
+      "username": "e",
+      "password": "ee",
+      "firstName": "E",
+      "lastName": "Ee",
+      "token": "e3",
+      "id": 3
+    },
+{
+      "id": 11,
+      "username": "q",
+      "password": "qq",
+      "firstName": "Q",
+      "lastName": "Qq",
+      "token": "q1"
+    },
+    {
+      "id": 12,
+      "username": "w",
+      "password": "ww",
+      "firstName": "W",
+      "lastName": "Ww",
+      "token": "w1"
+    },
+    {
+      "username": "e",
+      "password": "ee",
+      "firstName": "E",
+      "lastName": "Ee",
+      "token": "e3",
+      "id": 13
+    },
+{
+      "id": 21,
+      "username": "q",
+      "password": "qq",
+      "firstName": "Q",
+      "lastName": "Qq",
+      "token": "q1"
+    },
+    {
+      "id": 22,
+      "username": "w",
+      "password": "ww",
+      "firstName": "W",
+      "lastName": "Ww",
+      "token": "w1"
+    },
+    {
+      "username": "e",
+      "password": "ee",
+      "firstName": "E",
+      "lastName": "Ee",
+      "token": "e3",
+      "id": 23
+    }
+  ],
+
+  "exterior": [
+ 	{ "id": 1, "exteriorAreaType" : 1, "exteriorSubAreaType" : 0,  "damageType" : 0,
+          	"repairCostMinValue"  : 180, "repairCostMaxValue" : 225,  "replacementCostMinValue" : -1, "replacementCostMaxValue" : -1},
+        { "id": 2, "exteriorAreaType" : 1, "exteriorSubAreaType" : 0,  "damageType" : 0,
+          	"repairCostMinValue"  : 180, "repairCostMaxValue" : 225,  "replacementCostMinValue" : -1, "replacementCostMaxValue" : -1},
+        { "id": 2, "exteriorAreaType" : 1, "exteriorSubAreaType" : 0,  "damageType" : 0,
+          	"repairCostMinValue"  : 180, "repairCostMaxValue" : 225,  "replacementCostMinValue" : -1, "replacementCostMaxValue" : -1}  ,
+	{ "id": 21, "exteriorAreaType" : 1, "exteriorSubAreaType" : 0,  "damageType" : 0,
+          	"repairCostMinValue"  : 180, "repairCostMaxValue" : 225,  "replacementCostMinValue" : -1, "replacementCostMaxValue" : -1},
+        { "id": 22, "exteriorAreaType" : 1, "exteriorSubAreaType" : 0,  "damageType" : 0,
+          	"repairCostMinValue"  : 180, "repairCostMaxValue" : 225,  "replacementCostMinValue" : -1, "replacementCostMaxValue" : -1},
+        { "id": 22, "exteriorAreaType" : 1, "exteriorSubAreaType" : 0,  "damageType" : 0,
+          	"repairCostMinValue"  : 180, "repairCostMaxValue" : 225,  "replacementCostMinValue" : -1, "replacementCostMaxValue" : -1}  
+   ]
+}
